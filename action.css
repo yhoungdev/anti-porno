@@ -1,0 +1,20 @@
+.block {
+    color: black;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+}
+.block > h1 {
+    font-size: 30px;
+}
+
+.join {
+    background-color:black !important;
+    color: white !important;
+}
+.else {
+    background-color: white !important;
+    color: black !important;
+}
